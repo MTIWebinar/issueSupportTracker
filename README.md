@@ -1,10 +1,16 @@
 issueSupportTracker
 ===================
-
 Support Issue Tracking System
 
-===================
-Teamers:/n
-Vladimir: simVM75@Yandex.ru/n
-Maxim: mberdyugin@gmail.com/n
-Kirill: osipovka@gmail.com
+
+Console:
+-------------------
+use the 'python server.py' to srart server
+use the 'python client.py text' to srart local client & send text
+
+
+Teamers:
+-------------------
+- Vladimir: <simVM75@Yandex.ru>
+- Maxim: <mberdyugin@gmail.com>
+- Kirill: <osipovka@gmail.com>
